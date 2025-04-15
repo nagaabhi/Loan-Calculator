@@ -44,6 +44,9 @@ input[type="number"] {
       margin: 10px;
       padding: 15px;
   }
+   .switch-modes{
+    top : 5px
+}
 }
 
 @media (max-width: 400px) {
