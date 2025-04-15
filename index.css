@@ -50,6 +50,8 @@ input[type="number"] {
   input[type="number"] {
       font-size: 14px;
   }
+  .switch-modes{
+    top : 5px
 }
 .container input:focus{
   outline: none;
